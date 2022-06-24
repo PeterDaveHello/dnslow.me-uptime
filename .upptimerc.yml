@@ -2,8 +2,12 @@ owner: dnslow
 repo: uptime
 
 sites:
-  - name: dnslow.me
+  - name: dnslow.me https(DoH)
     url: https://dnslow.me
+  - name: dnslow.me DoT
+    check: "tcp-ping"
+    url: dnslow.me
+    port: 853
 
 assignees:
   - PeterDaveHello

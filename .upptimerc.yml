@@ -2,9 +2,11 @@ owner: dnslow
 repo: uptime
 
 sites:
-  - name: dnslow.me https(DoH)
+  - name: dnslow.me homepage
     url: https://dnslow.me
-  - name: dnslow.me DoT
+  - name: dnslow.me DoH get method resolve
+    url: https://dnslow.me/dns-query?dns=AAABAAABAAAAAAABBmRuc2xvdwJtZQAAAQABAAApAgAAAAAAAFoADABWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  - name: dnslow.me DoT tcp-ping
     check: "tcp-ping"
     url: dnslow.me
     port: 853

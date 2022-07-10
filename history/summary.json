@@ -22,19 +22,19 @@
     "url": "https://dnslow.me/dns-query?dns=AAABAAABAAAAAAABBmRuc2xvdwJtZQAAAQABAAApAgAAAAAAAFoADABWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "icon": "https://favicons.githubusercontent.com/dnslow.me",
     "slug": "dnslow-me-do-h-get-method-resolve",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1480,
-    "timeDay": 12938,
-    "timeWeek": 3270,
-    "timeMonth": 1480,
-    "timeYear": 1480,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1424,
+    "timeDay": 8763,
+    "timeWeek": 2952,
+    "timeMonth": 1424,
+    "timeYear": 1424,
     "dailyMinutesDown": {
-      "2022-07-10": 0
+      "2022-07-10": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "dnslow.me",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dnslow-me-do-t-tcp-ping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 50,
-    "timeDay": 66,
-    "timeWeek": 51,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 48,
+    "timeDay": 45,
+    "timeWeek": 47,
+    "timeMonth": 48,
+    "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-07-10": 0
+      "2022-07-10": 9
     }
   }
 ]

@@ -4,9 +4,9 @@
     "url": "https://dnslow.me",
     "icon": "https://favicons.githubusercontent.com/dnslow.me",
     "slug": "dnslow-me-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
@@ -16,6 +16,7 @@
     "timeMonth": 261,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2022-09-02": 0,
       "2022-07-12": 269,
       "2022-07-11": 224
     }
@@ -25,18 +26,19 @@
     "url": "https://dnslow.me/dns-query?dns=AAABAAABAAAAAAABBmRuc2xvdwJtZQAAAQABAAApAgAAAAAAAFoADABWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "icon": "https://favicons.githubusercontent.com/dnslow.me",
     "slug": "dnslow-me-do-h-get-method-resolve",
-    "status": "up",
-    "uptime": "99.49%",
+    "status": "down",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 399,
     "timeDay": 23,
     "timeWeek": 53,
     "timeMonth": 47,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2022-09-02": 0,
       "2022-07-16": 17,
       "2022-07-12": 269,
       "2022-07-11": 224

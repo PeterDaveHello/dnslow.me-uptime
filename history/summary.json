@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dnslow.me.ico",
     "slug": "dnslow-me-homepage",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 572,
-    "timeDay": 705,
-    "timeWeek": 707,
-    "timeMonth": 590,
+    "time": 561,
+    "timeDay": 374,
+    "timeWeek": 660,
+    "timeMonth": 585,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2023-05-31": 46
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 150,
-    "timeWeek": 145,
+    "timeDay": 107,
+    "timeWeek": 139,
     "timeMonth": 134,
     "timeYear": 138,
     "dailyMinutesDown": {
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 151,
-    "timeWeek": 145,
+    "timeDay": 106,
+    "timeWeek": 139,
     "timeMonth": 133,
-    "timeYear": 204,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   }
 ]

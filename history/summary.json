@@ -22,19 +22,19 @@
     "url": "https://dnslow.me/dns-query?dns=AAABAAABAAAAAAABBmRuc2xvdwJtZQAAAQABAAApAgAAAAAAAFoADABWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "icon": "https://icons.duckduckgo.com/ip3/dnslow.me.ico",
     "slug": "dnslow-me-do-h-get-method-resolve",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 110,
-    "timeWeek": 138,
-    "timeMonth": 140,
-    "timeYear": 140,
+    "timeDay": 129,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 11
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "dnslow.me",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dnslow-me-do-t-tcp-ping",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 109,
-    "timeWeek": 142,
-    "timeMonth": 140,
+    "timeDay": 138,
+    "timeWeek": 145,
+    "timeMonth": 141,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-19": 11
     }
   }
 ]

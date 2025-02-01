@@ -6,18 +6,16 @@
     "slug": "dnslow-me-homepage",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 654,
-    "timeDay": 961,
-    "timeWeek": 752,
-    "timeMonth": 718,
+    "timeDay": 749,
+    "timeWeek": 751,
+    "timeMonth": 716,
     "timeYear": 678,
-    "dailyMinutesDown": {
-      "2025-01-31": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dnslow.me DoH get method resolve",
@@ -26,18 +24,16 @@
     "slug": "dnslow-me-do-h-get-method-resolve",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 136,
-    "timeWeek": 143,
-    "timeMonth": 136,
+    "timeDay": 163,
+    "timeWeek": 145,
+    "timeMonth": 138,
     "timeYear": 140,
-    "dailyMinutesDown": {
-      "2025-01-31": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dnslow.me DoT tcp-ping",
@@ -50,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 105,
-    "timeWeek": 138,
-    "timeMonth": 135,
+    "time": 151,
+    "timeDay": 160,
+    "timeWeek": 141,
+    "timeMonth": 136,
     "timeYear": 139,
     "dailyMinutesDown": {}
   }

@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 656,
-    "timeDay": 519,
-    "timeWeek": 701,
-    "timeMonth": 722,
-    "timeYear": 679,
+    "timeDay": 810,
+    "timeWeek": 703,
+    "timeMonth": 721,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dnslow.me.ico",
     "slug": "dnslow-me-do-h-get-method-resolve",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 121,
-    "timeWeek": 144,
+    "time": 140,
+    "timeDay": 134,
+    "timeWeek": 140,
     "timeMonth": 141,
     "timeYear": 140,
-    "dailyMinutesDown": {
-      "2025-02-07": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dnslow.me DoT tcp-ping",
@@ -44,17 +42,15 @@
     "slug": "dnslow-me-do-t-tcp-ping",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 106,
-    "timeWeek": 139,
+    "timeDay": 124,
+    "timeWeek": 136,
     "timeMonth": 138,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2025-02-07": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -4,6 +4,7 @@ repo: uptime
 sites:
   - name: dnslow.me homepage
     url: https://dnslow.me
+    type: globalping
   - name: dnslow.me DoH get method resolve
     url: https://dnslow.me/dns-query?dns=AAABAAABAAAAAAABBmRuc2xvdwJtZQAAAQABAAApAgAAAAAAAFoADABWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
   - name: dnslow.me DoT tcp-ping

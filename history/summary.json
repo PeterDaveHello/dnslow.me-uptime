@@ -4,19 +4,19 @@
     "url": "https://dnslow.me",
     "icon": "https://icons.duckduckgo.com/ip3/dnslow.me.ico",
     "slug": "dnslow-me-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 716,
-    "timeDay": 601,
-    "timeWeek": 753,
-    "timeMonth": 723,
-    "timeYear": 711,
+    "timeDay": 819,
+    "timeWeek": 739,
+    "timeMonth": 732,
+    "timeYear": 712,
     "dailyMinutesDown": {
-      "2025-09-05": 0
+      "2025-09-05": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 110,
-    "timeWeek": 131,
-    "timeMonth": 144,
-    "timeYear": 138,
+    "time": 140,
+    "timeDay": 533,
+    "timeWeek": 191,
+    "timeMonth": 157,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 109,
+    "timeDay": 105,
     "timeWeek": 122,
-    "timeMonth": 142,
+    "timeMonth": 140,
     "timeYear": 138,
     "dailyMinutesDown": {}
   }

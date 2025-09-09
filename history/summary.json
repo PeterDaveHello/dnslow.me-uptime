@@ -4,9 +4,9 @@
     "url": "https://dnslow.me",
     "icon": "https://icons.duckduckgo.com/ip3/dnslow.me.ico",
     "slug": "dnslow-me-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 799,
     "timeMonth": 736,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   },
   {
     "name": "dnslow.me DoH get method resolve",

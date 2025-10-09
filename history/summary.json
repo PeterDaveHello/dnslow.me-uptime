@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
-    "timeDay": 826,
-    "timeWeek": 810,
-    "timeMonth": 787,
+    "timeDay": 839,
+    "timeWeek": 825,
+    "timeMonth": 790,
     "timeYear": 725,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "dnslow-me-do-h-get-method-resolve",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 665,
-    "timeWeek": 634,
-    "timeMonth": 664,
-    "timeYear": 184,
+    "time": 174,
+    "timeDay": 717,
+    "timeWeek": 650,
+    "timeMonth": 666,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2025-10-07": 25
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 119,
-    "timeWeek": 127,
-    "timeMonth": 132,
+    "timeDay": 142,
+    "timeWeek": 132,
+    "timeMonth": 133,
     "timeYear": 137,
     "dailyMinutesDown": {}
   }

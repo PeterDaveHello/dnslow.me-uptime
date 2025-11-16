@@ -4,19 +4,19 @@
     "url": "https://dnslow.me",
     "icon": "https://icons.duckduckgo.com/ip3/dnslow.me.ico",
     "slug": "dnslow-me-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 816,
-    "timeWeek": 783,
-    "timeMonth": 788,
-    "timeYear": 740,
+    "time": 731,
+    "timeDay": 812,
+    "timeWeek": 784,
+    "timeMonth": 789,
+    "timeYear": 741,
     "dailyMinutesDown": {
-      "2025-11-16": 0
+      "2025-11-16": 9
     }
   },
   {

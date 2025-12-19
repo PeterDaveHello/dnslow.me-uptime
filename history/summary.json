@@ -6,18 +6,16 @@
     "slug": "dnslow-me-homepage",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 729,
-    "timeDay": 799,
-    "timeWeek": 758,
-    "timeMonth": 773,
+    "timeDay": 734,
+    "timeWeek": 743,
+    "timeMonth": 772,
     "timeYear": 745,
-    "dailyMinutesDown": {
-      "2025-12-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dnslow.me DoH get method resolve",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 668,
-    "timeWeek": 786,
-    "timeMonth": 676,
-    "timeYear": 287,
+    "time": 252,
+    "timeDay": 560,
+    "timeWeek": 766,
+    "timeMonth": 678,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2025-10-07": 25
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 144,
+    "timeDay": 161,
     "timeWeek": 153,
-    "timeMonth": 132,
+    "timeMonth": 134,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2025-12-05": 36

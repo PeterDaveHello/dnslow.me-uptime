@@ -4,7 +4,7 @@
     "url": "https://dnslow.me",
     "icon": "https://icons.duckduckgo.com/ip3/dnslow.me.ico",
     "slug": "dnslow-me-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 897,
     "timeYear": 767,
     "dailyMinutesDown": {
+      "2026-01-18": 0,
       "2026-01-15": 17,
       "2026-01-04": 15,
       "2025-12-29": 41,

@@ -1,7 +1,7 @@
 url: https://dnslow.me/dns-query?dns=AAABAAABAAAAAAABBmRuc2xvdwJtZQAAAQABAAApAgAAAAAAAFoADABWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-status: up
-code: 200
-responseTime: 460
-lastUpdated: 2026-08-16T23:01:58.948Z
+status: down
+code: 502
+responseTime: 366
+lastUpdated: 2026-08-17T11:54:27.667Z
 startTime: 2022-06-24T10:56:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>

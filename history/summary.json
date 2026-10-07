@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 696,
-    "timeDay": 647,
-    "timeWeek": 573,
-    "timeMonth": 549,
-    "timeYear": 691,
+    "timeDay": 472,
+    "timeWeek": 560,
+    "timeMonth": 550,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-12-27": 21,
       "2025-12-29": 41,
@@ -49,14 +49,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 486,
-    "timeWeek": 452,
+    "time": 504,
+    "timeDay": 452,
+    "timeWeek": 429,
     "timeMonth": 497,
-    "timeYear": 587,
-    "dailyMinutesDown": {
-      "2025-10-07": 25
-    }
+    "timeYear": 586,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dnslow.me DoT tcp-ping",
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 136,
-    "timeDay": 134,
-    "timeWeek": 132,
-    "timeMonth": 137,
+    "timeDay": 120,
+    "timeWeek": 127,
+    "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2025-12-05": 36,
